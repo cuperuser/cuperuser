@@ -24,6 +24,56 @@
   <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="70px"/>
 </h1>
 
+<div align="center">
+
+### :man_technologist: About Me:
+  
+</div>
+  
+  I am a Junior Developer🔰 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m currently working on iOS applications.
+
+- :seedling: Now, I’m learning Swift programme language and WEB. 🌠:
+
+- 👨‍💼 I really want to work in global IT-company! 💻:
+
+- 🎓 I’m looking for help with hard tasks and I'm searching for good mentor.
+
+- 💬 Ask me about "how much do you lift?"
+
+- 📫 How to reach me: Follow my IG account or send me an <a href="mailto:gerasimov.k1175@gmail.com">email</a>
+
+- 😄 Pronouns: he/him
+
+- ⚡ Some facts: 
+  - When I finish my university, I'll go abroad. ✈️
+  - Usually I hit the gym in the evening. 🏋🏼
+  - I am VAZ 21011 ovner. 🚗
+  - I have played basketball for nine years 🏀
+<div align="center">
+
+ ---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" title="Safari" alt="Safari" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cuperuser&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **cuperuser/cuperuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
