@@ -18,11 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=cuperuser&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="50px"/>
-  PYTHON|SWIFT
-  <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="50px"/>
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="25px"/>
+  <b>PYTHON|SWIFT</b>
+  <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="25px"/>
+</div>
 
 <div align="center">
 
