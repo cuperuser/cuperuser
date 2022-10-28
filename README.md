@@ -20,7 +20,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="70px"/>
-  PYTHON | SWIFT
+  PYTHON|SWIFT
   <img src="https://media.giphy.com/media/OGSpqEw1L5e055nwYm/giphy.gif" width="70px"/>
 </h1>
 
